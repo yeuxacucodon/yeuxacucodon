@@ -1,3 +1,3 @@
 :wave: Hello, I'm yeuxacucodon
 
-![yeuxacucodon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeuxacucodon&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yeuxacucodon&theme=tokyonight_duo&hide_border=true&border_radius=5&locale=vi)](https://git.io/streak-stats)
