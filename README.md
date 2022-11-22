@@ -1,3 +1,3 @@
 :wave: Hello, I'm yeuxacucodon
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yeuxacucodon&theme=tokyonight_duo&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight">    <img  alt="yeuxacucodon's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yeuxacucodon?cardType=github&theme=tokyonight" />  </a>
