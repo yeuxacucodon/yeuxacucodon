@@ -1,5 +1,7 @@
 :wave: Hello, I'm yeuxacucodon
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/yeuxacucodon?cardType=github&theme=dracula)](https://git.io/awesome-stats-card)
+![yeuxacucodon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeuxacucodon&show_icons=true&theme=radical)
 
-<a href=#><img src="contributions.svg"></a>
+<p align="center"> 
+  <img src="contributions.svg" />
+</p>
